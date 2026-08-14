@@ -1,0 +1,9 @@
+{
+  "name": "siteforge-hc6jsz4o",
+  "version": "1.0.0",
+  "private": true,
+  "description": "我的APP网站宣传页",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
